@@ -32,6 +32,7 @@ public class MorseDecoder {
      * need to modify this value.
      */
     private static final int BIN_SIZE = 100;
+    sjssjsj
 
     /**
      * Compute power measurements for fixed-size bins of WAV samples.
